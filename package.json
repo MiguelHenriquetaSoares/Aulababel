@@ -1,0 +1,24 @@
+{
+  "name": "aulababel",
+  "version": "1.0.0",
+  "description": "Aula babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Aula",
+    "babel"
+  ],
+  "author": "Miguel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Aulababel"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7"
+  }
+}
